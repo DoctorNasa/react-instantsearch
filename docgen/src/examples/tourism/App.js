@@ -1,4 +1,4 @@
-/* eslint react/prop-types: 0 */
+/* eslint react/prop-types: 0, import/no-extraneous-dependencies: 0 */
 
 import {
   InstantSearch,
